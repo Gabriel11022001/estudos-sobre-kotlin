@@ -1,0 +1,3 @@
+package pacotepossuivariasclasses
+
+class Produto {}
