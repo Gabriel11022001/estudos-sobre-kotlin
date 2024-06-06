@@ -199,5 +199,5 @@ fun decrementarUnidadesDisponiveis(produtos: List<Produto>, idProduto: Int, quan
         produtosCopia.plus(novoProduto)
     }
 
-    produtos = produtosCopia
+    // produtos = produtosCopia
 }
