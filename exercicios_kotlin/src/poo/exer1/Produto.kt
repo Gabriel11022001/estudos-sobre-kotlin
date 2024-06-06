@@ -1,3 +1,3 @@
 package poo.exer1
 
-data class Produto(val nome: String, val preco: Double, val estoque: Int)
+data class Produto(var id: Int, var nome: String, var preco: Double, var estoque: Int)
